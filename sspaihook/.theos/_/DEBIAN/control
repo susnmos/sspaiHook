@@ -1,0 +1,10 @@
+Package: com.susnm.sspaihook
+Name: SSPaiHook
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: susnm
+Author: susnm
+Section: Tweaks
+Version: 0.0.1-33
+Installed-Size: 200
